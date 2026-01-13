@@ -1,0 +1,45 @@
+/* GLOBAL STYLES (MOBILE FIRST (SMALL) */
+
+*{
+    
+}
+
+html, body{
+    
+}
+
+body {
+    min-width: 450px;
+}
+
+header{
+
+}
+
+nav {
+
+}
+
+main{
+
+}
+
+footer{
+
+}
+
+
+/* MEDIA QUERIES (MEDIUM) */ 
+@media screen and (min-width: 800px){
+
+}
+
+/* MEDIA QUERIES (LARGE) */
+@media screen and (min-width: 1024px){
+
+}
+
+/* MEDIA QUERIES (XLARGE) */
+@media screen and (min-width: 1200px){
+
+}
